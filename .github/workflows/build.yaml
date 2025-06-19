@@ -1,4 +1,4 @@
-name: Build Cross-Platform GUI App
+name: certificate-splitter-build
 
 on:
   push:
