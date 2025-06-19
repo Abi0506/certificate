@@ -1,4 +1,4 @@
-name: certificate-splitter-build
+name: Certificate-splitter
 
 on:
   push:
