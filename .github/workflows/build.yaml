@@ -1,4 +1,4 @@
-name: Certificate-splitter
+name: Certificate-Splitter
 
 on:
   push:
